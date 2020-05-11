@@ -1,0 +1,253 @@
+.container {
+    margin: 0;
+    padding: 0;
+}
+
+.row {
+    position: ;
+    padding-top: 3em;
+}
+
+.row-header {
+    position: absolute;
+    top: 10%;
+    margin-left: 3em;
+    margin-top: 2.5em;
+    color: #ffffff;
+    font-size: large;
+}
+
+.row-links {
+    position: absolute;
+    top: 20%;
+    right: 50%;
+    margin-top: 13px;
+    font-family: sans-serif;
+}
+
+.row-NYC {
+    position: absolute;
+    top: 20%;
+    left: 80%;
+}
+
+.row-sweat {
+    position: absolute;
+    top: 40%;
+    margin-left: 4em;
+}
+
+.row-sweat h1 {
+    font-size: 40px;
+    color: #ffffff;
+}
+.row-sweat button {
+    padding: 10px 24px;
+    background-color: #FFDE00;
+    border: none;
+}
+
+.row1 {
+    padding-bottom: 7em;
+}
+.row1 hr {
+    background-color: #FFDE00;
+    margin-top: 3em;
+}
+
+.row1 p {
+    position: absolute;
+    left: 44%;
+    font-size: 24px;
+}
+
+.contain {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+}
+
+.Radio {
+    position: relative;
+}
+
+.Radio h5 {
+    position: absolute;
+    top: 5%;
+    margin-left: 10em;
+}
+.Radio p {
+    position: absolute;
+    top: 10%;
+    margin-left: 3em;
+    font-size: 24px;
+    font-family: sans-serif;
+}
+
+.middle {
+    position: relative;
+}
+.middle h5 {
+    position: absolute;
+    top: 5%;
+    margin-left: 10em;
+    color: #ffffff;
+}
+.middle p {
+    position: absolute;
+    top: 10%;
+    margin-left: 3em;
+    font-size: 24px;
+    font-family: sans-serif;
+    color: #ffffff;
+}
+
+.End {
+    position: relative;
+}
+.End h5 {
+    position: absolute;
+    top: 5%;
+    margin-left: 10em;
+    color: #ffffff;
+}
+.End p {
+    position: absolute;
+    top: 10%;
+    margin-left: 3em;
+    font-size: 24px;
+    font-family: sans-serif;
+    color: #ffffff;
+}
+
+.word {
+    padding-top: 5em;
+}
+.word img {
+    margin-left: 10em;
+}
+.word p {
+    color: #53556A;
+    font-size: 24px;
+    margin-left: 5em;
+    font-family: 'Roboto', sans-serif;
+}
+
+.workout {
+    position: relative;
+}
+
+.head {
+    position: absolute;
+    right: 24%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.head h1 {
+    font-size: 42px;
+}
+.head p {
+    font: 18px;
+    color: #53556A;
+}
+.image {
+    position: absolute;
+}
+
+.legend {
+    position: relative;
+}
+.yellow {
+    position: absolute;
+    margin-left: 4em;
+}
+.talk {
+    position: absolute;
+    right: 17%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.talk h1 {
+    font-size: 42px;
+    font-weight: 600;
+}
+.talk p {
+    font-weight: 600;
+    color: #53556A;
+}
+
+.Trans {
+    padding-top: 25em;
+    position: relative;
+}
+.music {
+    position: absolute;
+    margin-left: 4em;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.music h1 {
+    font-size: 42px;
+    color: #000000;
+}
+.music p {
+    font-size: 20px;
+    color: #53556A;
+}
+.webs {
+    position: absolute;
+    right: 5%;
+}
+
+.app-store {
+    padding-top: 25em;
+    position: relative;
+    
+}
+.google {
+    position: absolute;
+    font-family: sans-serif;
+    width: 100%;
+    height: 70%;
+    background-color: #FFDE00;
+}
+.google h1 {
+    font-size: 42px;
+    color: #000000;
+}
+.google p {
+    font-size: 24px;
+    color: #53556A;
+}
+.phone {
+    position: absolute;
+    right: 5%;
+}
+
+.list {
+    padding-top: 20em;
+    display: flex;
+    flex-direction: row;
+}
+
+ h4 {
+     text-align: center;
+ }
+
+.help h4 {
+    margin-right: 7em;
+}
+
+li {
+    color: #53556A;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.follow {
+    margin-left: 50px;
+}
+
+.logo {
+   margin-left: 7em; 
+}
